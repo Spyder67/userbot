@@ -13,23 +13,23 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "spyderuserbot88"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "20684542"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "aabc907b142fe0df2634e8282dfaffb5"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 stringsetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": ""
+      "value": "BQCCLAkY7JC2vr6ovMydNECCgSGRcNnXkJO3EHLurOBpibXzYPSmjYHWRw7eCK1tlRyj25njl6aOBdKDSpxdVovafexyjFAcnRWzMjNzraxdWjNndouK7QdmDf7jy7WW-QRscMDkogtHTufSFb235QqKnle_OH5XdZVZoGjla4b2PKK4qKIwTZxci3id8qvexBWxXXzrKlNOG-pSozhD0DpBapAEfe97bgwbc-BY0kkY1W4U3TOKFQCWPqgRnOW3X03Di-BfORlKhdv58QxerM011C2Q6C5LeH5WT_eehuyfS55hHpNYRnQTBlpiulS_OETxaVfVzOuf-vz85Hqn9zKzAAAAAVlMwRkA"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.",
-      "value": ""
+      "value": "6088100173:AAEF8b2EV0rN9RYc3YqVUNvpLgndzB6sNsU"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -43,12 +43,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "b9d22bf1-9185-40b7-8a72-d6380f871cbb",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "",
+      "value": "spyderuserbot88",
       "required": false
     },
     "TZ": {
